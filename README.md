@@ -1,12 +1,5 @@
 # Terraform_start
 
-15:38
-
-
-
-
-
-
 Create 3 EC2 instances on aws with terraform
 I created it with ssh key
 
